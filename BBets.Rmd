@@ -66,9 +66,9 @@ The function will be given a class_size by number of students, odds, and Number_
 
 ```{r}
 options(digits = 2)
-teachers <- numeric(40)
-for (i in 1:40){
-  teachers[i]<-BrLw()
+teachers <- numeric(1000)
+for (i in 1:1000){
+  teachers[i]<-BrLw(odds=4.39)
 }
 fav_stats(teachers) -> profit
 print("we can say that Mr. Brownlows is making an average of")
