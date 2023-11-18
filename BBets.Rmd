@@ -131,3 +131,4 @@ After experimenting with different class sizes, we found that a class of 28 stud
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+In the Brownlow Bets write up, we were able to find how odds in a simple betting game could be manipulated through the means used in the code as well as creating a conistent mean for earnings through increasing the sample size from 40 teachers to 1000 teachers. Chatgpt was used to create a histogram for the earnings and the teachers but, the CandP helper files were not required for this write up.
