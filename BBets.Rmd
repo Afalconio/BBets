@@ -121,7 +121,7 @@ for (i in 1:40){
 favstats(teachers)   
 ```
 
-
+After experimenting with different class sizes, we found that a class of 28 students yielded the closest results to a near 0 for the earnings of Brownlow.
 
 
 
